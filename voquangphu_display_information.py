@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from turtle import *
 import turtle
 wn = turtle.Screen()
@@ -303,3 +304,13 @@ if __name__ == '__main__':
     my_goto(100, -300)
     write('@python.for.fun', font=("Bradley Hand ITC", 30, "bold"))
     mainloop()
+=======
+print("""
+Ten: Vo Quang Phu
+Sinh ngay: 02/11/1997
+Dia chi: KP2, An Phu, Thuan An, Binh Duong
+Muc dich hoc Python: de lam DA
+""")
+# phu dt
+# eeeeeeee
+>>>>>>> e7a998a05d8b78936dcd7c3a30426dff23864ee5
