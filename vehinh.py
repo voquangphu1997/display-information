@@ -14,7 +14,7 @@ nhan_screen.forward(canh)
 nhan_screen.left(90)
 nhan_screen.forward(canh)                    
 nhan_screen.left(90)
-nhan_screen.forward(canh)                    
+nhan_screen.forward(can 
 nhan_screen.left(90)
 
 nhan_screen.forward(canh * 2/3)                    
