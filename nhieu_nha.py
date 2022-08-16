@@ -18,7 +18,7 @@ nhan_screen.forward(canh)
 nhan_screen.left(90)
 nhan_screen.forward(canh)                    
 nhan_screen.left(90)
-
+#cua chinh
 nhan_screen.penup()
 nhan_screen.goto(canh * 2/3, 0)
 nhan_screen.pendown()
@@ -30,7 +30,7 @@ nhan_screen.forward(canh * 1/3)
 nhan_screen.left(90)
 nhan_screen.forward(canh * 2/3)                    
 nhan_screen.left(90)
-
+#mai nha
 nhan_screen.penup()
 nhan_screen.goto(canh, canh) 
 nhan_screen.pendown()
@@ -55,7 +55,7 @@ nhan_screen.forward(canh_2)
 nhan_screen.left(90)
 nhan_screen.forward(canh_2)                    
 nhan_screen.left(90)
-
+#cua chinh
 nhan_screen.penup()
 nhan_screen.goto(canh + khoang_canh + canh_2 * 2/3, 0)
 nhan_screen.pendown()
@@ -67,7 +67,7 @@ nhan_screen.forward(canh_2 * 1/3)
 nhan_screen.left(90)
 nhan_screen.forward(canh_2 * 2/3)                    
 nhan_screen.left(90)
-
+#mai nha
 nhan_screen.penup()
 nhan_screen.goto(canh + khoang_canh + canh_2, canh_2) 
 nhan_screen.pendown()
@@ -92,7 +92,7 @@ nhan_screen.forward(canh_3)
 nhan_screen.left(90)
 nhan_screen.forward(canh_3)                    
 nhan_screen.left(90)
-
+#cua chinh
 nhan_screen.penup()
 nhan_screen.goto(canh + canh_2 + 2 * khoang_canh + canh_3 * 2/3, 0)
 nhan_screen.pendown()
@@ -104,7 +104,7 @@ nhan_screen.forward(canh_3 * 1/3)
 nhan_screen.left(90)
 nhan_screen.forward(canh_3 * 2/3)                    
 nhan_screen.left(90)
-
+#mai nha
 nhan_screen.penup()
 nhan_screen.goto(canh + canh_2 + 2 * khoang_canh + canh_3, canh_3) 
 nhan_screen.pendown()
