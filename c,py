@@ -1,1 +1,3 @@
-print(123)
+print("asd", end = "\t")
+print("bds")
+print(Istrip("bds"))
