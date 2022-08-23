@@ -1,3 +1,7 @@
-print("asd", end = "\t")
-print("bds")
-print(Istrip("bds"))
+chuoi = input ("nhap chuoi:  ")
+vitrithem = int(input ("nhap vi tri:  "))
+soluongkhoangcach = input ("nhap so luong khoang cach:  ")
+thay_the = " "*int(soluongkhoangcach) + chuoi[vitrithem]
+
+chuoimoi = chuoi.replace(chuoi[vitrithem], thay_the)
+print(chuoimoi)

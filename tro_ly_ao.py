@@ -13,9 +13,8 @@ try:
     you = robot_ear.recognize_google(audio)
 except:
     you = "Please SPEAK"
-print("Robot: " + you)
+print("You: " + you)
 #hieu
-you = "hello"
 if you =="":
     robot_brain = "I can't hear you, try again"
 elif you == "hello":
